@@ -1,5 +1,5 @@
 # TierlistTK
-A tierlist GUI program in tkinter
+A remake of TierMaker on python tkinter which is cross platform and lightweight
 
 # Features:-
 
