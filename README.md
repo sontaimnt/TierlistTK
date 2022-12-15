@@ -8,7 +8,7 @@ A remake of TierMaker on python tkinter which is cross platform and lightweight
 - File Detection with tierlist
 - Beautiful yet minimal UI
 - Keyboard shortcuts
-- Light/Dark Mode(WIP!)
+- Light/Dark Mode
 
 # Keybindings:-
 
