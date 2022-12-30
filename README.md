@@ -1,4 +1,4 @@
-# TierlistTK
+# TierMakerTK
 A remake of TierMaker on python tkinter which is cross platform and lightweight
 
 # Features:-
