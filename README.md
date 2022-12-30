@@ -15,7 +15,7 @@ A remake of TierMaker on python tkinter which is cross platform and lightweight
 - Ctrl + O = Open a tierlist
 - Ctrl + S = Save a tierlist
 
-# Requirements
+# Requirements:-
 
 - Python 3.6 or above with a Tcl/Tk install..
 - Fira Mono Font
